@@ -1,0 +1,14 @@
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.exe
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.deps.json
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.runtimeconfig.json
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.dll
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.pdb
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.dll
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\obj\Debug\net8.0\refint\BuilderPattern.dll
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.pdb
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\ElinaPrykhodko\source\repos\BuilderPattern\BuilderPattern\obj\Debug\net8.0\ref\BuilderPattern.dll
