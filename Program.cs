@@ -1,6 +1,8 @@
 ﻿using BuilderPattern;
 using System;
 
+class Program {
+
     static void Main(string[] args)
     {
     CarMechanikBuilder mechanik = new CarMechanikBuilder();
@@ -89,4 +91,5 @@ public class SUVBuilder : CarBuild
     {
         this.Car.GPSCar = new GPSCar();
     }
+}
 }
