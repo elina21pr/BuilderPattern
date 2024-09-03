@@ -18,6 +18,26 @@ class Program {
     Console.WriteLine("Позашляховик:");
     Console.WriteLine(suvCar.ToString());
 
+    switch (chooseBuilder)
+{
+    case "sportCarBuilder":
+        Console.WriteLine("Спортивний автомобіль:");
+        Console.WriteLine(sportCar.ToString());
+        break;
+
+    case "suvbuilder":
+        Console.WriteLine("Позашляховик:");
+        Console.WriteLine(suvCar.ToString());
+        break ;
+
+    default: Console.WriteLine("Такого механіка немає");
+         break;
+
+
+
+
+}
+
 
 }
 public abstract class CarBuild
